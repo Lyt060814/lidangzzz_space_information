@@ -1,6 +1,6 @@
-# lidangzzz's twitter space information
+# lidangzzz's twitter space and youtube information
 
-This repository is a collection of [@lidangzzz](https://github.com/lidangzzz)'s space information, mainly focusing on AI Agent and related topics.
+This repository is a collection of [@lidangzzz](https://github.com/lidangzzz)'s twitter space and youtube information, mainly focusing on AI Agent and related topics.
 
 Get more information from his [twitter](https://x.com/lidangzzz) and [youtube](https://www.youtube.com/@lidangzzz).
 
@@ -8,9 +8,9 @@ Get more information from his [twitter](https://x.com/lidangzzz) and [youtube](h
 
 [什么是AI Agent？如何学习AI Agent？（2024/10/8）](2024-10-08-什么是AI-Agent-如何学习AI-Agent.md)
 
-[清华北大的学生，不搞AI创业就他妈白读书了  2025/1/6](2025-01-06-清华北大的学生不搞AI创业就白读书了.md)
+[清华北大的学生，不搞AI创业就他妈白读书了 (2025/1/6)](2025-01-06-清华北大的学生不搞AI创业就白读书了.md)
 
-[Mar23, 2025 lidang space](2025-03-23-lidang-space.md)
+[Mar 23, 2025 lidang space](2025-03-23-lidang-space.md)
 
 [学习AI，为什么一定不能在大学里学习（April 21，2025）](2025-04-21-学习AI为什么一定不能在大学里学习.md)
 
